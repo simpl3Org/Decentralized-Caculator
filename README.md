@@ -112,3 +112,9 @@ MIT License
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+Want to get more details, check out My blog and youtube video
+MEDIUM
+https://medium.com/@edeemmanuelchizurumoke/create-a-dapp-on-sei-with-html-css-js-2a1c83e687ef
+YOUTUBE
+https://www.youtube.com/watch?v=Qrcn80ntIq0&feature=youtu.be
